@@ -23,6 +23,7 @@ docker network inspect my-network
 ### 2. Overview of Installation Order
 Install in the following order:
 1. minio
-2. hive-metastore (hiveserver2 is optional)
-3. trino
-4. airflow
+2. postgres
+3. hive-metastore (hiveserver2 is optional)
+4. trino
+5. airflow
