@@ -1,5 +1,6 @@
 # docker-data-platform
 Refer to each directory's README file for Docker installation.
+We chose this approach as this is more modular and easier to troubleshoot, rather than relying on one huge gigantic one docker compose file and lose track of the installation notes.
 
 ## Pre-requisites
 ```
