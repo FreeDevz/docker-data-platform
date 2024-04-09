@@ -1,6 +1,16 @@
 # docker-data-platform
 Refer to each directory's README file for Docker installation.
 
+## Pre-requisites
+```
+Install Docker Desktop Version:
+4.29.0 (145265)
+Engine: 26.0.0
+Compose: v2.26.1-desktop.1
+Credential Helper: v0.8.1
+Kubernetes: v1.29.2
+```
+
 ### 1. Create User Defined Bridge
 To start with, let's create the user defined network
 
